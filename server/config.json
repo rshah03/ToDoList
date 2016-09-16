@@ -1,10 +1,11 @@
 {
   "development": {
-    "username": "root",
+    "username": "Ronak",
     "password": null,
-    "database": "todo_database",
+    "database": "todo2_database",
     "host": "127.0.0.1",
-    "dialect": "mysql"
+    "port": "5432",
+    "dialect": "postgres"
   },
   "test": {
     "username": "root",
